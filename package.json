@@ -1,0 +1,18 @@
+{
+  "name": "eapi-uid",
+  "version": "1.0.1",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Unique id",
+    "id"
+  ],
+  "author": "J. Salem AFFA <salemaffa@gmail.com>",
+  "license": "ISC",
+  "bin": {
+    "euid": "./bin/index.js"
+  }
+}
